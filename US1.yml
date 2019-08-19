@@ -1,1 +1,4 @@
-staticfile_buildpack: 1.4.43
+binary_buildpack: 1.0.32
+go_buildpack: 1.8.42
+nodejs_buildpack: 1.6.53
+ruby_buildpack: 1.7.42
